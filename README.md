@@ -1,0 +1,3 @@
+-Day 1(WSL/Ubuntu basics
+-Day 2(Bash scripting & Local Git)
+-Day 3(Generating SSH keys, understanding Asymmetric Cryptography, and succesfully pushing local code to a remote GitHub repository)
