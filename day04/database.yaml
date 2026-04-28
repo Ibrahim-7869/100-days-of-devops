@@ -1,0 +1,5 @@
+---
+database_name: postgres-main
+port: 5432
+max_connection: 100
+backup_enabled: true
