@@ -1,3 +1,4 @@
--Day 1(WSL/Ubuntu basics
--Day 2(Bash scripting & Local Git)
--Day 3(Generating SSH keys, understanding Asymmetric Cryptography, and succesfully pushing local code to a remote GitHub repository)
+- Day 1: WSL/Ubuntu basics
+- Day 2: Bash scripting & Local Git
+- Day 3: Generating SSH keys, understanding Asymmetric Cryptography, and succesfully pushing local code to a remote GitHub repository
+- Day 4: Infrastructure as Code (JSON/YAML), Linters (jq, yamllit), and git branching & Merging.
