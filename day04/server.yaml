@@ -1,3 +1,4 @@
+---
 server_name: ubuntu-web-01
 ip_address: 192.168.1.10
 ports_open:
@@ -5,4 +6,3 @@ ports_open:
   - 443
   - 22
 is_active: true
-
