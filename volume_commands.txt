@@ -1,0 +1,2 @@
+docker volume create fyp-database-data
+docker run -v fyp-database-data:/app/data alpine
