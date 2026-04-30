@@ -3,3 +3,4 @@
 - Day 3: Generating SSH keys, understanding Asymmetric Cryptography, and succesfully pushing local code to a remote GitHub repository
 - Day 4: Infrastructure as Code (JSON/YAML), Linters (jq, yamllit), and git branching & Merging.
 - Day 5: Docker Desktop setup, upgrading architecture from WSL 1 to WSL 2 (kernel upgrade), and running the first container.
+- Day 6: Container ephemerality, Docker Volumes, and data persistence strategies.
