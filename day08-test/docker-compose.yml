@@ -1,0 +1,18 @@
+services:
+  web-server:
+    image: httpd:alpine
+    ports:
+      - "8081:80"
+    networks:
+      - backend-net
+
+  database:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_PASSWORD: secretpassword
+    networks:
+      - backend-net
+
+networks:
+  backend-net:
+    driver: bridge
