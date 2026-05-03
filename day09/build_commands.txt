@@ -1,0 +1,2 @@
+docker build -t day09-node-app:v1 .
+docker run --rm day09-node-app:v1
