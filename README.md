@@ -6,3 +6,4 @@
 - Day 6: Container ephemerality, Docker Volumes, and data persistence strategies.
 - Day 7: Docker custom bridge networks, internal DNS resolution, and port mapping.
 - Day 8: Multi-container orchestration, Infrastructure as Code (IaC), and Docker Compose
+- Day 9: Custom Docker images, Dockerfile architecture, and image build processes.
