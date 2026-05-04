@@ -7,3 +7,4 @@
 - Day 7: Docker custom bridge networks, internal DNS resolution, and port mapping.
 - Day 8: Multi-container orchestration, Infrastructure as Code (IaC), and Docker Compose
 - Day 9: Custom Docker images, Dockerfile architecture, and image build processes.
+- Day 10: Multi-stage Docker builds, image size optimization, and compiled application deployment.
